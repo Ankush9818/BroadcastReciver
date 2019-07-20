@@ -1,0 +1,5 @@
+<root>
+    <item name='android.provider.Settings.Secure ALLOWED_GEOLOCATION_ORIGINS'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
